@@ -1,0 +1,11 @@
+<div class="center">
+<h1 id="notice"><%= notice %></h1>
+<img src="/assets/like.png" alt="thumbs up" />
+<h3>
+  <strong>New Task:</strong>
+  <%= @todo_item.description %>
+</h3>
+
+<%= link_to 'Edit', edit_todo_item_path(@todo_item) %> |
+<%= link_to 'Back', todo_items_path %>
+</div>
