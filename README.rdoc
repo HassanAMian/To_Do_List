@@ -1,28 +1,8 @@
-== README
+== To Do List
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a basic to do list without authentication.  It was my first rails app, so it doesn't have many features but it does have tests.
 
-Things you may want to cover:
+This app was written in Rails 4.  I was going to add authentication from scratch but I probably won't come back to it unless I don't have any other examples of authentication/authorization in later apps.
 
-* Ruby version
+Gems used: Standard rails gems (very basic application, like I said).
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
